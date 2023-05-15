@@ -11,5 +11,5 @@ This is a Github User search app!
 
 
 ## Links
-- Live Site URL: [Github User Search App]()🌐
+- Live Site URL: [Github User Search App](https://github-users-ferlaxi.netlify.app/)🌐
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
