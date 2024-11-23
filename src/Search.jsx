@@ -319,7 +319,7 @@ const Search = () => {
                 >
                   {idioma == false ? (
                     <p className="absolute text-l-dev-semiwhite w-full text-center text-[17px] top-2">
-                      Que haces
+                      Que haces?
                     </p>
                   ) : (
                     <p className="absolute text-l-dev-semiwhite w-full text-center text-[17px] top-2">
