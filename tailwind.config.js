@@ -25,7 +25,12 @@ export default {
         "l-dev-dark1" : "#1E2A47",
         'current1': '#697C9A',
         'current2': '#F6F8FF',
-        'current3' : "#4b6a9b"
+        'current3' : "#4b6a9b",
+        'AGA-green' : 'hsl(150, 100%, 66%)',
+        'AGA-light' : 'hsl(193, 38%, 86%)',
+      },
+      animation: {
+        spin : 'spin 4s linear infinite'
       }
     },
     
