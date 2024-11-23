@@ -359,7 +359,7 @@ const Search = () => {
           </div>
 
           <div className="flex justify-between flex-col w-full px-7">
-            <div className="flex justify-between w-full gap-x-7">
+            <div className="md:flex justify-between w-full gap-x-7">
               <div className="flex p-5 gap-x-4 items-center md:w-[50%] md:h-48 h-auto md:flex-row flex-col bg-l-dev-dark rounded-xl mt-4 dark:bg-l-dev-dark">
                 <img
                   src={cat}
@@ -417,7 +417,7 @@ const Search = () => {
               </div>
             </div>
             <div className="flex md:flex-row flex-col w-full md:h-44 h-auto bg-l-dev-dark rounded-xl mt-4 dark:bg-l-dev-dark relative">
-              <div className="flex flex-col justify-center gap-y-2 w-[44%] h-full px-5">
+              <div className="flex flex-col justify-center gap-y-2 md:w-[44%] h-full px-5">
                 {idioma == false ? (
                   <>
                     <p className="font-bold text-[18px] text-white">
@@ -443,8 +443,8 @@ const Search = () => {
                 )}
               </div>
 
-              <div className="flex items-center justify-between w-[55%] h-full pl-5 py-5">
-                <div className="flex flex-col items-center justify-center px-5 gap-y-2 bg-l-dev-dark1 rounded-xl w-[85%] h-full">
+              <div className="flex items-center justify-between md:w-[55%] md:h-full h-auto pl-5 py-5">
+                <div className="flex flex-col items-center justify-center md:px-5 gap-y-2 bg-l-dev-dark1 rounded-xl w-[85%] h-full">
                   {randomAdvice == null ? (
                     <>
                       {idioma == false ? (
