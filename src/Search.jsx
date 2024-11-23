@@ -39,12 +39,14 @@ const Search = () => {
 
   const handleUserGesture = () => {
     if (!audioContext) {
-      // Crear un nuevo AudioContext
-      const newAudioContext = new (window.AudioContext || window.webkitAudioContext)();
+      const newAudioContext = new (window.AudioContext ||
+        window.webkitAudioContext)();
       setAudioContext(newAudioContext);
     } else {
-      // Resumir el AudioContext si ya existe
-      audioContext.resume();
+      // Si el AudioContext ya existe, simplemente lo reanudamos
+      audioContext.resume().catch((error) => {
+        console.error("Error al reanudar el AudioContext", error);
+      });
     }
   };
 
@@ -56,7 +58,7 @@ const Search = () => {
         if (audioRef.current) {
           audioRef.current.play();
         }
-      }, 1000); 
+      }, 1000);
     }
   };
 
@@ -292,7 +294,9 @@ const Search = () => {
 
             <div
               onClick={() => {
-                setShowImage(true), playAudioWithDelayAndFadeIn(), handleUserGesture();
+                setShowImage(true),
+                  playAudioWithDelayAndFadeIn(),
+                  handleUserGesture();
               }}
               className="w-44 h-44 bg-l-dev-dark rounded-xl mt-4 relative"
             >
