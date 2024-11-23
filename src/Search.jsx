@@ -24,8 +24,20 @@ const Search = () => {
   const [isTransformed, setIsTransformed] = useState(false);
   const [showImage, setShowImage] = useState(false);
   const [idioma, setIdioma] = useState(false);
+  const [audioContext, setAudioContext] = useState(null);
 
   const audioRef = useRef(null);
+
+  const handleUserGesture = () => {
+    if (!audioContext) {
+      // Crear un nuevo AudioContext
+      const newAudioContext = new (window.AudioContext || window.webkitAudioContext)();
+      setAudioContext(newAudioContext);
+    } else {
+      // Resumir el AudioContext si ya existe
+      audioContext.resume();
+    }
+  };
 
   const playAudioWithDelayAndFadeIn = () => {
     const audio = audioRef.current;
@@ -271,7 +283,7 @@ const Search = () => {
 
             <div
               onClick={() => {
-                setShowImage(true), playAudioWithDelayAndFadeIn();
+                setShowImage(true), playAudioWithDelayAndFadeIn(), handleUserGesture();
               }}
               className="w-44 h-44 bg-l-dev-dark rounded-xl mt-4 relative"
             >
