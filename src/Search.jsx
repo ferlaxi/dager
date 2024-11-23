@@ -443,8 +443,8 @@ const Search = () => {
                 )}
               </div>
 
-              <div className="flex items-center justify-between md:w-[55%] md:h-full h-auto pl-5 py-5">
-                <div className="flex flex-col items-center justify-center md:px-5 gap-y-2 bg-l-dev-dark1 rounded-xl w-[85%] h-full">
+              <div className="md:flex items-center md:justify-between md:w-[55%] md:h-full h-auto pl-5 py-5">
+                <div className="flex flex-col items-center justify-center md:px-5 gap-y-2 bg-l-dev-dark1 rounded-xl w-[85%] md:h-full h-44">
                   {randomAdvice == null ? (
                     <>
                       {idioma == false ? (
