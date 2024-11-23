@@ -28,6 +28,15 @@ const Search = () => {
 
   const audioRef = useRef(null);
 
+  useEffect(() => {
+    // Limpiar el AudioContext cuando el componente se desmonte
+    return () => {
+      if (audioContext) {
+        audioContext.close(); // Cerrar el contexto cuando el componente se desmonte
+      }
+    };
+  }, [audioContext]);
+
   const handleUserGesture = () => {
     if (!audioContext) {
       // Crear un nuevo AudioContext
