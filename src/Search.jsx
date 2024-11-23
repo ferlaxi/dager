@@ -234,7 +234,7 @@ const Search = () => {
         </div>
 
         <div className={`${isTransformed ? "hidden" : "flex"}`}>
-          <div className="w-[22%] h-full md:flex md:flex-col pt-5 items-center gap-y-4">
+          <div className="md:w-[22%] h-full md:flex md:flex-col pt-5 w-full items-center gap-y-4">
             <div className="gap-y-6 flex flex-col">
               <a
                 href="http://instagram.com/dager.32"
@@ -359,7 +359,7 @@ const Search = () => {
           </div>
 
           <div className="flex justify-between flex-col w-full px-7">
-            <div className="md:flex justify-between w-full gap-x-7">
+            <div className="md:flex justify-between w-full md:mt-0 mt-[400px] gap-x-7">
               <div className="flex p-5 gap-x-4 items-center md:w-[50%] md:h-48 h-auto md:flex-row flex-col bg-l-dev-dark rounded-xl mt-4 dark:bg-l-dev-dark">
                 <img
                   src={cat}
