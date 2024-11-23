@@ -235,7 +235,7 @@ const Search = () => {
 
         <div className={`${isTransformed ? "hidden" : "flex"}`}>
           <div className="md:w-[22%] w-[0%] h-full md:flex md:flex-col pt-5 items-center gap-y-4">
-            <div className="gap-y-6 flex flex-col">
+            <div className="gap-y-6 flex flex-col md:ml-0 ml-12">
               <a
                 href="http://instagram.com/dager.32"
                 target="_blank"
@@ -299,7 +299,7 @@ const Search = () => {
                   playAudioWithDelayAndFadeIn(),
                   handleUserGesture();
               }}
-              className="w-44 h-44 bg-l-dev-dark rounded-xl mt-4 relative"
+              className="w-44 h-44 bg-l-dev-dark rounded-xl ml-10 md:ml-0 mt-4 relative"
             >
               {/* Elemento de audio oculto */}
               <audio ref={audioRef}>
@@ -318,9 +318,9 @@ const Search = () => {
                   className="absolute text-l-dev-semiwhite w-full text-center text-[15px] top-2"
                 >
                   {idioma == false ? (
-                    <p className="absolute text-l-dev-semiwhite w-full text-center text-[17px] top-2">
+                    <div className="absolute text-l-dev-semiwhite w-full text-center text-[17px] top-2">
                       Que haces?
-                    </p>
+                    </div>
                   ) : (
                     <p className="absolute text-l-dev-semiwhite w-full text-center text-[17px] top-2">
                       WYD?
@@ -330,9 +330,9 @@ const Search = () => {
               ) : (
                 <>
                   {idioma == false ? (
-                    <p className="absolute text-l-dev-semiwhite w-full text-center text-[14px] top-2">
+                    <div className="absolute text-l-dev-semiwhite w-full text-center text-[14px] top-2">
                       Abajo no hay nada para hacer click.
-                    </p>
+                    </div>
                   ) : (
                     <p className="absolute text-l-dev-semiwhite w-full text-center text-[14px] top-2">
                       There's nothing to click on below.
