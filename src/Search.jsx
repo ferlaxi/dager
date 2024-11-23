@@ -39,7 +39,7 @@ const Search = () => {
 
         let fadeInterval = setInterval(() => {
           if (audio.volume < 1) {
-            audio.volume += 0.04;
+            audio.volume += 0.5;
           } else {
             clearInterval(fadeInterval);
           }
