@@ -27,27 +27,6 @@ const Search = () => {
 
   const audioRef = useRef(null);
 
-  const playAudioWithDelayAndFadeIn = () => {
-    const audio = audioRef.current;
-
-    if (audio) {
-      const delay = 600;
-
-      setTimeout(() => {
-        audio.volume = 0;
-        audio.play();
-
-        let fadeInterval = setInterval(() => {
-          if (audio.volume < 1) {
-            audio.volume += 0.5;
-          } else {
-            clearInterval(fadeInterval);
-          }
-        }, 100);
-      }, delay);
-    }
-  };
-
   useEffect(() => {
     const fetchData = async () => {
       let url = "";
@@ -280,7 +259,7 @@ const Search = () => {
 
             <div
               onClick={() => {
-                setShowImage(true), playAudioWithDelayAndFadeIn();
+                setShowImage(true);
               }}
               className="w-44 h-44 bg-l-dev-dark rounded-xl mt-4 relative"
             >
