@@ -96,9 +96,9 @@ const Search = () => {
   };
 
   return (
-    <div className="w-[65%] h-[65%]">
+    <div className="w-[65%] md:h-[65%] h-screen">
       {/* head */}
-      <div className="flex">
+      <div className="flex md:mt-0 mt-12">
         <motion.div
           initial={{ x: -40, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
@@ -443,7 +443,7 @@ const Search = () => {
                 )}
               </div>
 
-              <div className="md:flex items-center md:justify-between md:w-[55%] md:h-full h-auto pl-5 py-5">
+              <div className="md:flex flex md:flex-row flex-col items-center md:justify-between md:w-[55%] md:h-full h-auto md:pl-5 md:py-5 gap-y-4">
                 <div className="flex flex-col items-center justify-center md:px-5 gap-y-2 bg-l-dev-dark1 rounded-xl w-[85%] md:h-full h-44">
                   {randomAdvice == null ? (
                     <>
