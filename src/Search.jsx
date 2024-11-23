@@ -27,6 +27,18 @@ const Search = () => {
 
   const audioRef = useRef(null);
 
+  const playAudioWithDelayAndFadeIn = () => {
+    const audio = audioRef.current;
+
+    if (audio) {
+      setTimeout(() => {
+        if (audioRef.current) {
+          audioRef.current.play();
+        }
+      }, 1000); 
+    }
+  };
+
   useEffect(() => {
     const fetchData = async () => {
       let url = "";
@@ -259,7 +271,7 @@ const Search = () => {
 
             <div
               onClick={() => {
-                setShowImage(true);
+                setShowImage(true), playAudioWithDelayAndFadeIn();
               }}
               className="w-44 h-44 bg-l-dev-dark rounded-xl mt-4 relative"
             >
