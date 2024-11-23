@@ -16,6 +16,7 @@ import axios from "axios";
 import axe from "./assets/axe.svg";
 import home from "./assets/home.svg";
 import cucumber from "./assets/cucumber.png";
+import audio from "./assets/audio2.mp3"
 
 const Search = () => {
   const [data, setData] = useState([]);
@@ -302,7 +303,7 @@ const Search = () => {
             >
               {/* Elemento de audio oculto */}
               <audio ref={audioRef}>
-                <source src="/src/assets/audio2.mp3" type="audio/mp3" />
+                <source src={audio} type="audio/mp3" />
               </audio>
 
               {showImage ? (
