@@ -164,6 +164,14 @@
     "consejo": "Ayuda soy Peruano"
   },
   {
+    "numero_consejo": 42,
+    "consejo": "Invadan Venezuela"
+  },
+  {
+    "numero_consejo": 43,
+    "consejo": "Esa poronga tiene estuche"
+  },
+  {
     "numero_consejo": 100,
     "consejo": "Este es el consejo 100, y los otros 70?, nose"
   }
