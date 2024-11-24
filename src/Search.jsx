@@ -137,7 +137,7 @@ const Search = () => {
         {isTransformed ? (
           <button
             onClick={() => setIsTransformed(!isTransformed)}
-            className="flex justify-center items-center w-16 h-16 bg-l-dev-semiblue rounded-r-xl absolute -right-[64px] top-5 cursor-pointer shadow-xl group border-2 border-l-transparent border-white/50 hover:bg-l-dev-gray transition-all duration-500"
+            className="flex justify-center items-center w-16 h-16 bg-l-dev-semiblue rounded-r-xl absolute md:-right-[64px] -right-[155px] md:top-5 top-44 cursor-pointer shadow-xl group border-2 border-l-transparent border-white/50 hover:bg-l-dev-gray transition-all duration-500"
           >
             <img
               src={home}
@@ -194,8 +194,8 @@ const Search = () => {
           transition={{ duration: 1, delay: 3 }} // Duración y retraso de 2 segundos
           title="Lumber Jack Game"
           src="https://tbot.xyz/lumber/"
-          className={`w-full h-full rounded-xl ${
-            isTransformed ? "flex" : "hidden"
+          className={`md:w-full md:h-full h-screen md:-ml-0 -ml-24 rounded-xl ${
+            isTransformed ? "md:flex" : "hidden"
           }`}
         ></motion.iframe>
         <div
