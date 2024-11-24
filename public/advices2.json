@@ -140,6 +140,26 @@
         "tip": "That mouse must smell like cheese"
     },
     {
+        "tip_number": 36,
+        "tip": "Penetration +100"
+    },
+    {
+        "tip_number": 37,
+        "tip": "I'm being held hostage, help, leaving coordinates 33.393256, 43.646222"
+    },
+    {
+        "tip_number": 38,
+        "tip": "Recruiters always feel like taking a dump"
+    },
+    {
+        "tip_number": 39,
+        "tip": "When hearing nonsense, it must be from HR"
+    },
+    {
+        "tip_number": 40,
+        "tip": "Once you touch PHP, there's no turning back"
+    },    
+    {
         "numero_consejo": 100,
         "consejo": "This is advice 100, and the other 70? I don't know"
     }
