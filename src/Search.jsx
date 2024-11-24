@@ -371,14 +371,14 @@ const Search = () => {
                   {idioma == false ? (
                     <p className="text-l-dev-gray text-[14px]">
                       Nada más gratificante que el amor de un amigo peludo.
-                      Elogiado por mi gato con ratas en mi cama como gesto de
+                      Elogiado por mi gato con ratas muertas en mi cama como gesto de
                       tal amor hacia mi persona.
                     </p>
                   ) : (
                     <p className="text-l-dev-gray text-[14px]">
                       Nothing is more gratifying than the love of a furry
                       friend. My cat shows their affection by leaving me gifts
-                      of rats on my bed—a true gesture of love toward me.
+                      of dead rats on my bed—a true gesture of love toward me.
                     </p>
                   )}
                 </div>
