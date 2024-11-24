@@ -1,167 +1,170 @@
 [
-    {
-        "numero_consejo": 1,
-        "consejo": "Te aconsejo que busques otro consejo"
-    },
-    {
-        "numero_consejo": 2,
-        "consejo": "No le des al botón tan rápido"
-    },
-    {
-        "numero_consejo": 3,
-        "consejo": "Este es el consejo N°100, mentira"
-    },
-    {
-        "numero_consejo": 4,
-        "consejo": "No te olvides del WHERE"
-    },
-    {
-        "numero_consejo": 5,
-        "consejo": "Ante la duda, --force"
-    },
-    {
-        "numero_consejo": 6,
-        "consejo": "Lee la documentación"
-    },
-    {
-        "numero_consejo": 7,
-        "consejo": "Si te preguntas si estas listo, ya estas listo"
-    },
-    {
-        "numero_consejo": 8,
-        "consejo": "No seas eterno estudiante, tirate a la pileta"
-    },
-    {
-        "numero_consejo": 9,
-        "consejo": "Puto el que lee"
-    },
-    {
-        "numero_consejo": 10,
-        "consejo": "Hay más de 100 consejos, mentira"
-    },
-    {
-        "numero_consejo": 11,
-        "consejo": "No manosees de esa forma a mi botón"
-    },
-    {
-        "numero_consejo": 12,
-        "consejo": "Dejen de sembrar y cosechen"
-    },
-    {
-        "numero_consejo": 13,
-        "consejo": "ChatPTS te doxea"
-    },
-    {
-        "numero_consejo": 14,
-        "consejo": "Jugale el 13 a la quiniela, aunque sea el consejo 14"
-    },
-    {
-        "numero_consejo": 15,
-        "consejo": "Que bulto Dager"
-    },
-    {
-        "numero_consejo": 16,
-        "consejo": "+10, ya sos New Full User"
-    },
-    {
-        "numero_consejo": 17,
-        "consejo": "Hoy sobaras un pepino"
-    },
-    {
-        "numero_consejo": 18,
-        "consejo": "Las probabilidades de un consejo shiny es de 0.000000001%"
-    },
-    {
-        "numero_consejo": 19,
-        "consejo": "Algunos no son consejos, si ya se"
-    },
-    {
-        "numero_consejo": 20,
-        "consejo": "Anda Teemo jungla"
-    },
-    {
-        "numero_consejo": 21,
-        "consejo": "No necesitas saber la respuesta, solo tener una cara que parezca que la tienes."
-    },
-    {
-        "numero_consejo": 22,
-        "consejo": "Tocaras pichula"
-    },
-    {
-        "numero_consejo": 23,
-        "consejo": "Serás come trabas como el p de mbappe"
-    },
-    {
-        "numero_consejo": 24,
-        "consejo": "3cm, eso paga impuestos"
-    },
-    {
-        "numero_consejo": 25,
-        "consejo": "Jamás compres las RTX 3050"
-    },
-    {
-        "numero_consejo": 26,
-        "consejo": "Mira mi web, localhost:3000"
-    },
-    {
-        "numero_consejo": 27,
-        "consejo": "+5cm por leer esto"
-    },
-    {
-        "numero_consejo": 28,
-        "consejo": "Si tiene manija, dale para adelante"
-    },
-    {
-        "numero_consejo": 29,
-        "consejo": "Vale por 1$"
-    },
-    {
-        "numero_consejo": 30,
-        "consejo": "-5cm por leer esto"
-    },
-    {
-        "numero_consejo": 31,
-        "consejo": "Date por cogido pequeñuelo"
-    },
-    {
-        "numero_consejo": 32,
-        "consejo": "Los que están en el tier S me la maman"
-    },
-    {
-        "numero_consejo": 33,
-        "consejo": "Dager trabaje en negro por vos, chupapija"
-    },
-    {
-        "numero_consejo": 34,
-        "consejo": "dejo CBU para pagar alquiler, 12786"
-    },
-    {
-        "numero_consejo": 35,
-        "consejo": "Ese mouse debe tener olor a queso"
-    },
-    {
-        "numero_consejo": 36,
-        "consejo": "Penetración +100"
-    },
-    {
-        "numero_consejo": 37,
-        "consejo": "Me tienen secuestrado ayuda, dejo coordenadas 33.393256, 43.646222"
-    },
-    {
-        "numero_consejo": 38,
-        "consejo": "La recruiters siempre tienen ganas de cagar"
-    },
-    {
-        "numero_consejo": 39,
-        "consejo": "A palabras necias, ha de ser de RRHH"
-    },
-    {
-        "numero_consejo": 40,
-        "consejo": "De tocar PHP no se vuelve"
-    },
-    {
-        "numero_consejo": 100,
-        "consejo": "Este es el consejo 100, y los otros 70?, nose"
-    }
+  {
+    "numero_consejo": 1,
+    "consejo": "Te aconsejo que busques otro consejo"
+  },
+  {
+    "numero_consejo": 2,
+    "consejo": "No le des al botón tan rápido"
+  },
+  {
+    "numero_consejo": 3,
+    "consejo": "Este es el consejo N°100, mentira"
+  },
+  {
+    "numero_consejo": 4,
+    "consejo": "No te olvides del WHERE"
+  },
+  {
+    "numero_consejo": 5,
+    "consejo": "Ante la duda, --force"
+  },
+  {
+    "numero_consejo": 6,
+    "consejo": "Lee la documentación"
+  },
+  {
+    "numero_consejo": 7,
+    "consejo": "Si te preguntas si estas listo, ya estas listo"
+  },
+  {
+    "numero_consejo": 8,
+    "consejo": "No seas eterno estudiante, tirate a la pileta"
+  },
+  {
+    "numero_consejo": 9,
+    "consejo": "Puto el que lee"
+  },
+  {
+    "numero_consejo": 10,
+    "consejo": "Hay más de 100 consejos, mentira"
+  },
+  {
+    "numero_consejo": 11,
+    "consejo": "No manosees de esa forma a mi botón"
+  },
+  {
+    "numero_consejo": 12,
+    "consejo": "Dejen de sembrar y cosechen"
+  },
+  {
+    "numero_consejo": 13,
+    "consejo": "ChatPTS te doxea"
+  },
+  {
+    "numero_consejo": 14,
+    "consejo": "Jugale el 13 a la quiniela, aunque sea el consejo 14"
+  },
+  {
+    "numero_consejo": 15,
+    "consejo": "Que bulto Dager"
+  },
+  {
+    "numero_consejo": 16,
+    "consejo": "+10, ya sos New Full User"
+  },
+  {
+    "numero_consejo": 17,
+    "consejo": "Hoy sobaras un pepino"
+  },
+  {
+    "numero_consejo": 18,
+    "consejo": "Las probabilidades de un consejo shiny es de 0.000000001%"
+  },
+  {
+    "numero_consejo": 19,
+    "consejo": "Algunos no son consejos, si ya se"
+  },
+  {
+    "numero_consejo": 20,
+    "consejo": "Anda Teemo jungla"
+  },
+  {
+    "numero_consejo": 21,
+    "consejo": "No necesitas saber la respuesta, solo tener una cara que parezca que la tienes."
+  },
+  {
+    "numero_consejo": 22,
+    "consejo": "Tocaras pichula"
+  },
+  {
+    "numero_consejo": 23,
+    "consejo": "Serás come trabas como el p de mbappe"
+  },
+  {
+    "numero_consejo": 24,
+    "consejo": "3cm, eso paga impuestos"
+  },
+  {
+    "numero_consejo": 25,
+    "consejo": "Jamás compres las RTX 3050"
+  },
+  {
+    "numero_consejo": 26,
+    "consejo": "Mira mi web, localhost:3000"
+  },
+  {
+    "numero_consejo": 27,
+    "consejo": "+5cm por leer esto"
+  },
+  {
+    "numero_consejo": 28,
+    "consejo": "Si tiene manija, dale para adelante"
+  },
+  {
+    "numero_consejo": 29,
+    "consejo": "Vale por 1$"
+  },
+  {
+    "numero_consejo": 30,
+    "consejo": "-5cm por leer esto"
+  },
+  {
+    "numero_consejo": 31,
+    "consejo": "Date por cogido pequeñuelo"
+  },
+  {
+    "numero_consejo": 32,
+    "consejo": "Los que están en el tier S me la maman"
+  },
+  {
+    "numero_consejo": 33,
+    "consejo": "Dager trabaje en negro por vos, chupapija"
+  },
+  {
+    "numero_consejo": 34,
+    "consejo": "dejo CBU para pagar alquiler, 12786"
+  },
+  {
+    "numero_consejo": 35,
+    "consejo": "Ese mouse debe tener olor a queso"
+  },
+  {
+    "numero_consejo": 36,
+    "consejo": "Penetración +100"
+  },
+  {
+    "numero_consejo": 37,
+    "consejo": "Me tienen secuestrado ayuda, dejo coordenadas 33.393256, 43.646222"
+  },
+  {
+    "numero_consejo": 38,
+    "consejo": "La recruiters siempre tienen ganas de cagar"
+  },
+  {
+    "numero_consejo": 39,
+    "consejo": "A palabras necias, ha de ser de RRHH"
+  },
+  {
+    "numero_consejo": 40,
+    "consejo": "De tocar PHP no se vuelve"
+  },
+  {
+    "numero_consejo": 41,
+    "consejo": "Ayuda soy Peruano"
+  },
+  {
+    "numero_consejo": 100,
+    "consejo": "Este es el consejo 100, y los otros 70?, nose"
+  }
 ]
-

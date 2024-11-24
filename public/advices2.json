@@ -1,166 +1,170 @@
 [
-    {
-        "numero_consejo": 1,
-        "consejo": "I advise you to look for another piece of advice"
-    },
-    {
-        "numero_consejo": 2,
-        "consejo": "Don't press the button so quickly"
-    },
-    {
-        "numero_consejo": 3,
-        "consejo": "This is advice No. 100, just kidding"
-    },
-    {
-        "numero_consejo": 4,
-        "consejo": "Don't forget the WHERE"
-    },
-    {
-        "numero_consejo": 5,
-        "consejo": "When in doubt, --force"
-    },
-    {
-        "numero_consejo": 6,
-        "consejo": "Read the documentation"
-    },
-    {
-        "numero_consejo": 7,
-        "consejo": "If you're wondering if you're ready, you're already ready"
-    },
-    {
-        "numero_consejo": 8,
-        "consejo": "Don't be an eternal student, dive into the pool"
-    },
-    {
-        "numero_consejo": 9,
-        "consejo": "You fool for reading this"
-    },
-    {
-        "numero_consejo": 10,
-        "consejo": "There are more than 100 pieces of advice, just kidding"
-    },
-    {
-        "numero_consejo": 11,
-        "consejo": "Don't handle my button like that"
-    },
-    {
-        "numero_consejo": 12,
-        "consejo": "Stop planting and start harvesting"
-    },
-    {
-        "numero_consejo": 13,
-        "consejo": "ChatPTS doxxes you"
-    },
-    {
-        "numero_consejo": 14,
-        "consejo": "Bet on No. 13 in the lottery, even though this is advice 14"
-    },
-    {
-        "numero_consejo": 15,
-        "consejo": "What a bulge, Dager"
-    },
-    {
-        "numero_consejo": 16,
-        "consejo": "+10, you're now a New Full User"
-    },
-    {
-        "numero_consejo": 17,
-        "consejo": "Today you'll caress a cucumber"
-    },
-    {
-        "numero_consejo": 18,
-        "consejo": "The probability of a shiny advice is 0.000000001%"
-    },
-    {
-        "numero_consejo": 19,
-        "consejo": "Some are not pieces of advice, I know"
-    },
-    {
-        "numero_consejo": 20,
-        "consejo": "Go Teemo jungle"
-    },
-    {
-        "numero_consejo": 21,
-        "consejo": "You don't need to know the answer, just have a face that looks like you do"
-    },
-    {
-        "numero_consejo": 22,
-        "consejo": "You'll touch a wiener"
-    },
-    {
-        "numero_consejo": 23,
-        "consejo": "You'll eat trannies like Mbappé"
-    },
-    {
-        "numero_consejo": 24,
-        "consejo": "3cm, that pays taxes"
-    },
-    {
-        "numero_consejo": 25,
-        "consejo": "Never buy the RTX 3050"
-    },
-    {
-        "numero_consejo": 26,
-        "consejo": "Check out my website, localhost:3000"
-    },
-    {
-        "numero_consejo": 27,
-        "consejo": "+5cm for reading this"
-    },
-    {
-        "numero_consejo": 28,
-        "consejo": "If it has a handle, push forward"
-    },
-    {
-        "numero_consejo": 29,
-        "consejo": "Worth $1"
-    },
-    {
-        "numero_consejo": 30,
-        "consejo": "-5cm for reading this"
-    },
-    {
-        "tip_number": 31,
-        "tip": "Consider yourself cogido, little one"
-    },
-    {
-        "tip_number": 32,
-        "tip": "Those in the S tier can suck it"
-    },
-    {
-        "tip_number": 33,
-        "tip": "Dager worked off the books for you, sucker"
-    },
-    {
-        "tip_number": 34,
-        "tip": "Here's my CBU to pay rent, 12786"
-    },
-    {
-        "tip_number": 35,
-        "tip": "That mouse must smell like cheese"
-    },
-    {
-        "tip_number": 36,
-        "tip": "Penetration +100"
-    },
-    {
-        "tip_number": 37,
-        "tip": "I'm being held hostage, help, leaving coordinates 33.393256, 43.646222"
-    },
-    {
-        "tip_number": 38,
-        "tip": "Recruiters always feel like taking a dump"
-    },
-    {
-        "tip_number": 39,
-        "tip": "When hearing nonsense, it must be from HR"
-    },
-    {
-        "tip_number": 40,
-        "tip": "Once you touch PHP, there's no turning back"
-    },    
-    {
-        "numero_consejo": 100,
-        "consejo": "This is advice 100, and the other 70? I don't know"
-    }
+  {
+    "numero_consejo": 1,
+    "consejo": "I advise you to look for another piece of advice"
+  },
+  {
+    "numero_consejo": 2,
+    "consejo": "Don't press the button so quickly"
+  },
+  {
+    "numero_consejo": 3,
+    "consejo": "This is advice No. 100, just kidding"
+  },
+  {
+    "numero_consejo": 4,
+    "consejo": "Don't forget the WHERE"
+  },
+  {
+    "numero_consejo": 5,
+    "consejo": "When in doubt, --force"
+  },
+  {
+    "numero_consejo": 6,
+    "consejo": "Read the documentation"
+  },
+  {
+    "numero_consejo": 7,
+    "consejo": "If you're wondering if you're ready, you're already ready"
+  },
+  {
+    "numero_consejo": 8,
+    "consejo": "Don't be an eternal student, dive into the pool"
+  },
+  {
+    "numero_consejo": 9,
+    "consejo": "You fool for reading this"
+  },
+  {
+    "numero_consejo": 10,
+    "consejo": "There are more than 100 pieces of advice, just kidding"
+  },
+  {
+    "numero_consejo": 11,
+    "consejo": "Don't handle my button like that"
+  },
+  {
+    "numero_consejo": 12,
+    "consejo": "Stop planting and start harvesting"
+  },
+  {
+    "numero_consejo": 13,
+    "consejo": "ChatPTS doxxes you"
+  },
+  {
+    "numero_consejo": 14,
+    "consejo": "Bet on No. 13 in the lottery, even though this is advice 14"
+  },
+  {
+    "numero_consejo": 15,
+    "consejo": "What a bulge, Dager"
+  },
+  {
+    "numero_consejo": 16,
+    "consejo": "+10, you're now a New Full User"
+  },
+  {
+    "numero_consejo": 17,
+    "consejo": "Today you'll caress a cucumber"
+  },
+  {
+    "numero_consejo": 18,
+    "consejo": "The probability of a shiny advice is 0.000000001%"
+  },
+  {
+    "numero_consejo": 19,
+    "consejo": "Some are not pieces of advice, I know"
+  },
+  {
+    "numero_consejo": 20,
+    "consejo": "Go Teemo jungle"
+  },
+  {
+    "numero_consejo": 21,
+    "consejo": "You don't need to know the answer, just have a face that looks like you do"
+  },
+  {
+    "numero_consejo": 22,
+    "consejo": "You'll touch a wiener"
+  },
+  {
+    "numero_consejo": 23,
+    "consejo": "You'll eat trannies like Mbappé"
+  },
+  {
+    "numero_consejo": 24,
+    "consejo": "3cm, that pays taxes"
+  },
+  {
+    "numero_consejo": 25,
+    "consejo": "Never buy the RTX 3050"
+  },
+  {
+    "numero_consejo": 26,
+    "consejo": "Check out my website, localhost:3000"
+  },
+  {
+    "numero_consejo": 27,
+    "consejo": "+5cm for reading this"
+  },
+  {
+    "numero_consejo": 28,
+    "consejo": "If it has a handle, push forward"
+  },
+  {
+    "numero_consejo": 29,
+    "consejo": "Worth $1"
+  },
+  {
+    "numero_consejo": 30,
+    "consejo": "-5cm for reading this"
+  },
+  {
+    "numero_consejo": 31,
+    "consejo": "Consider yourself cogido, little one"
+  },
+  {
+    "numero_consejo": 32,
+    "consejo": "Those in the S tier can suck it"
+  },
+  {
+    "numero_consejo": 33,
+    "consejo": "Dager worked off the books for you, sucker"
+  },
+  {
+    "numero_consejo": 34,
+    "consejo": "Here's my CBU to pay rent, 12786"
+  },
+  {
+    "numero_consejo": 35,
+    "consejo": "That mouse must smell like cheese"
+  },
+  {
+    "numero_consejo": 36,
+    "consejo": "Penetration +100"
+  },
+  {
+    "numero_consejo": 37,
+    "consejo": "I'm being held hostage, help, leaving coordinates 33.393256, 43.646222"
+  },
+  {
+    "numero_consejo": 38,
+    "consejo": "Recruiters always feel like taking a dump"
+  },
+  {
+    "numero_consejo": 39,
+    "consejo": "When hearing nonsense, it must be from HR"
+  },
+  {
+    "numero_consejo": 40,
+    "consejo": "Once you touch PHP, there's no turning back"
+  },
+  {
+    "numero_consejo": 41,
+    "consejo": "Help, I'm Peruvian"
+  },
+  {
+    "numero_consejo": 100,
+    "consejo": "This is advice 100, and the other 70? I don't know"
+  }
 ]
